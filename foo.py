@@ -11,3 +11,7 @@ def bar():
 
 def not_tested():
     pass
+
+
+def baz():
+    print("ok")
