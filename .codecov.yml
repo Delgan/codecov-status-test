@@ -8,3 +8,5 @@ coverage:
       default:
         target: 100%
         threshold: null
+  notify:
+    wait_for_ci: yes
