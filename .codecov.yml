@@ -8,5 +8,7 @@ coverage:
       default:
         target: 100%
         threshold: null
+        
+codecov:
   notify:
     wait_for_ci: yes
